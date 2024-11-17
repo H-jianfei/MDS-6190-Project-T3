@@ -21,3 +21,4 @@ Estimator (NNE) to estimate the model parameters. Then, it studies the role of t
 
 # ✨Other
   This project is only for learning purposes and has not been used for other purposes. Some of the relevant code has referred to online resources.
+  The 6190 should be changed as 6109, this is the typo error
